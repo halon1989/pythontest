@@ -10,5 +10,6 @@ if __name__ == '__main__':
     num3 = 123456 
     num4 = 30
     num5 = 50
+    num6 = 60
 
 
