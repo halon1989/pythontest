@@ -11,5 +11,5 @@ if __name__ == '__main__':
     num4 = 30
     num5 = 50
     num6 = 60
-
+    num7 = 70
 
